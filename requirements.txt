@@ -64,7 +64,7 @@ Pillow-PIL==0.1.dev0
 pluggy==0.7.1
 ply==3.11
 progressbar33==2.4
-psutil==5.4.7
+psutil==5.6.6
 psycopg2==2.7.6.1
 py==1.6.0
 pyasn1==0.4.4
